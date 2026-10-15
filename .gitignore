@@ -1,0 +1,16 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Local/debug files
+*.log
+
+# Publication helpers stay outside repo/
+PUBLIKUJ_GITHUB.cmd
+PUBLIKUJ_GITHUB.ps1
+PUBLIKACJA_GITHUB.md
+OPIS_GITHUB.txt
